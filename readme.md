@@ -1,1 +1,4 @@
-Hastag Fritz Velarde-Alvarez Aguilar
+Hashtag Fritz Velarde-Alvarez Aguilar
+
+
+este es el readme
